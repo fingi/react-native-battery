@@ -6,7 +6,7 @@
 //  Created by Olajide Ogundipe Jr on 9/15/15.
 
 
-#import <React/RCTBridgeModule.h>
+#import "RCTBridgeModule.h"
 
 
 @interface BatteryManager : NSObject <RCTBridgeModule>
