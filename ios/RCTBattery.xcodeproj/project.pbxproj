@@ -280,7 +280,7 @@
 			};
 			name = Release;
 		};
-/* End XCBuildConfiguration section */
+/* End XCBuildConfiguration section  */
 
 /* Begin XCConfigurationList section */
 		6C2902141BA93BD700972EE3 /* Build configuration list for PBXProject "RCTBattery" */ = {
